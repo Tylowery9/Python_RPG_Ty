@@ -1,0 +1,16 @@
+{
+    "name" : "Donabar",
+    "strength" : 15,
+    "intelligence" : 10,
+    "wisdom": 6,
+    "constitution": 6,
+    "dexterity": 8,
+    "charisma": 7,
+    "race": "human",
+    "Class": "fighter",
+    "level": 1,
+    "hit_point_max": 24,
+    "movement": 30,
+    "xp": 4000
+
+}
